@@ -160,13 +160,13 @@ Unlike traditional chatbots, AI is integrated throughout every module of the pla
 
 
 
-<img width="1600" height="785" alt="WhatsApp Image 2026-07-16 at 5 55 21 PM" src="https://github.com/user-attachments/assets/62733621-98e6-42c4-98d2-84f3a6039b65" />
+<img width="142" height="706" alt="image" src="https://github.com/user-attachments/assets/7810645b-0ba3-4f3c-85dd-7cd681a2f9fe" />
 
 
 ## 2️⃣ Product Wireframes
 
+<img width="855" height="777" alt="image" src="https://github.com/user-attachments/assets/101de742-dc74-4b08-833d-6c1fd0d0fd92" />
 
-<img width="1548" height="836" alt="image" src="https://github.com/user-attachments/assets/44954138-aada-453f-bf45-ec943ccec2fc" />
 
 
 ---
@@ -174,6 +174,7 @@ Unlike traditional chatbots, AI is integrated throughout every module of the pla
 ## 3️⃣ User Journey
 
 
+<img width="201" height="850" alt="image" src="https://github.com/user-attachments/assets/d5e64dfb-0ad7-4505-a4cc-a5ead0aff1ce" />
 
 ```
 docs/user-journey.png
@@ -183,14 +184,9 @@ docs/user-journey.png
 
 ## 4️⃣ System Architecture
 
-<img width="201" height="850" alt="WhatsApp Image 2026-07-16 at 5 56 00 PM" src="https://github.com/user-attachments/assets/0061b150-76c1-42c3-ab15-9119b22cfa8c" />
-
-```
-docs/system-architecture.png
-```
+<img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/d9ed714c-c885-40a0-838f-c02bede0b5b3" />
 
 ---
-
 # 📱 Prototype Screens
 
 ## Dashboard
