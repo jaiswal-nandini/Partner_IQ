@@ -166,6 +166,9 @@ Unlike traditional chatbots, AI is integrated throughout every module of the pla
 ## 2️⃣ Product Wireframes
 
 <img width="855" height="777" alt="image" src="https://github.com/user-attachments/assets/101de742-dc74-4b08-833d-6c1fd0d0fd92" />
+<img width="912" height="788" alt="image" src="https://github.com/user-attachments/assets/a06f25f7-770e-4854-ada8-a207162410da" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c22dfe9-1abf-49c2-85c6-8e99483303b1" />
+
 
 
 
@@ -191,49 +194,56 @@ docs/user-journey.png
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1372" height="848" alt="Screenshot 2026-07-16 174108" src="https://github.com/user-attachments/assets/79c821b9-78c2-4fbb-8965-2300ea55ca34" />
+
 
 ---
 
 ## Recipes
 
-![Recipes](screenshots/recipes.png)
+<img width="1381" height="843" alt="Screenshot 2026-07-16 174156" src="https://github.com/user-attachments/assets/56579fe0-fbb3-4afb-bf20-58e49516ad99" />
+
 
 ---
 
 ## Shelf Life
 
-![Shelf Life](screenshots/shelflife.png)
+<img width="1375" height="843" alt="Screenshot 2026-07-16 174217" src="https://github.com/user-attachments/assets/53e4dfdf-dad3-400e-806f-657a67a35b4d" />
+
 
 ---
 
 ## Coffee Knowledge
 
-![Coffee Knowledge](screenshots/coffeeknowledge.png)
+<img width="1382" height="850" alt="Screenshot 2026-07-16 174248" src="https://github.com/user-attachments/assets/0a6a9429-bb79-49df-8b82-d311ac535174" />
+
 
 ---
 
 ## Coffee Tasting
 
-![Coffee Tasting](screenshots/tasting.png)
+<img width="1385" height="856" alt="Screenshot 2026-07-16 174317" src="https://github.com/user-attachments/assets/c1ed590a-c225-4b53-930f-43d55c02ac0e" />
+
 
 ---
 
 ## Knowledge Test
 
-![Knowledge Test](screenshots/knowledge-test.png)
+<img width="1382" height="850" alt="Screenshot 2026-07-16 174336" src="https://github.com/user-attachments/assets/fbae227c-5973-40b0-8c3e-4de4d939627f" />
+
 
 ---
 
 ## Partner AI Coach
 
-![Partner AI](screenshots/partner-ai.png)
+<img width="1362" height="847" alt="Screenshot 2026-07-16 174354" src="https://github.com/user-attachments/assets/2a677877-3ef3-43aa-bc5c-b627765c9c57" />
+
 
 ---
 
 ## Profile
 
-![Profile](screenshots/profile.png)
+<img width="1398" height="836" alt="Screenshot 2026-07-16 174412" src="https://github.com/user-attachments/assets/3e5303b7-3c1c-4a47-8770-1e00cfa45753" />
 
 ---
 
