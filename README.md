@@ -158,26 +158,22 @@ Unlike traditional chatbots, AI is integrated throughout every module of the pla
 
 ## 1️⃣ From Idea to Prototype
 
-> **Add your Whimsical idea flow diagram here**
 
-C:\Users\jaisw\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\9F976D59DC3E8BC317FCA77EACDF70528143F66C\transfers\2026-29\WhatsApp Image 2026-07-16 at 5.55.21 PM.jpeg
+
 <img width="1600" height="785" alt="WhatsApp Image 2026-07-16 at 5 55 21 PM" src="https://github.com/user-attachments/assets/62733621-98e6-42c4-98d2-84f3a6039b65" />
 
----
 
 ## 2️⃣ Product Wireframes
 
-> **Add your Whimsical wireframes here**
 
-```
-docs/wireframes.png
-```
+<img width="1548" height="836" alt="image" src="https://github.com/user-attachments/assets/44954138-aada-453f-bf45-ec943ccec2fc" />
+
 
 ---
 
 ## 3️⃣ User Journey
 
-> **Add your User Flow Diagram here**
+
 
 ```
 docs/user-journey.png
@@ -187,7 +183,7 @@ docs/user-journey.png
 
 ## 4️⃣ System Architecture
 
-> **Add your AI Architecture Diagram here**
+<img width="201" height="850" alt="WhatsApp Image 2026-07-16 at 5 56 00 PM" src="https://github.com/user-attachments/assets/0061b150-76c1-42c3-ab15-9119b22cfa8c" />
 
 ```
 docs/system-architecture.png
