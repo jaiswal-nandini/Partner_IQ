@@ -270,34 +270,6 @@ docs/user-journey.png
 
 ---
 
-# 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/PartnerIQ.git
-```
-
-Navigate to the project:
-
-```bash
-cd PartnerIQ
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
----
-
 # 🔮 Future Enhancements
 
 - AI Voice Coach
