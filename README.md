@@ -270,35 +270,6 @@ docs/user-journey.png
 
 ---
 
-# 📂 Project Structure
-
-```
-PartnerIQ
-│
-├── docs
-│   ├── idea-flow.png
-│   ├── wireframes.png
-│   ├── user-journey.png
-│   └── system-architecture.png
-│
-├── screenshots
-│   ├── dashboard.png
-│   ├── recipes.png
-│   ├── shelflife.png
-│   ├── coffeeknowledge.png
-│   ├── tasting.png
-│   ├── knowledge-test.png
-│   ├── partner-ai.png
-│   └── profile.png
-│
-├── public
-├── src
-├── package.json
-└── README.md
-```
-
----
-
 # 🚀 Getting Started
 
 Clone the repository:
